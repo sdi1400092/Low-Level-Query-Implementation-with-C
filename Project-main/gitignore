@@ -1,0 +1,11 @@
+node_modules/
+bower_components/
+*.pyc
+*.swp
+*.log
+*.o
+*.h.gch
+config/local.json
+nohup.out
+client/dist/
+API/venv/
